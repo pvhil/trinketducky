@@ -1,3 +1,5 @@
+# repo is for Trinket M0. Still in development
+
 # pico-ducky
 Create a USB Rubber Ducky like device using a Raspberry PI Pico
 
