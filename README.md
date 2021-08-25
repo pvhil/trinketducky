@@ -1,5 +1,6 @@
 # trinket-ducky
 Hello! This is my Fork from [pico-ducky!](https://github.com/dbisu/pico-ducky) This Repo is specially made and edited for the Trinket M0, because I think the Trinket is better than a Pico. (Veeery much smaller and cooler :^). I have an example down below).
+(I have not changed that much in the Code I just made it compatible to the Trinket. BUT I will add some cool features in the future)
 
 Create a USB Rubber Ducky like device using a Trinket M0
 
