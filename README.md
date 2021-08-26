@@ -38,4 +38,10 @@ $ cp <duckyscriptfile> /path to media device>/payload.dd
 Simply press the button on the Trinket when connecting to a PC while it is flashing YELLOW. It will run in Secure Mode and you can change anything you want.
   
 # Cool Example
-Later.
+My First Version (v1)   
+![](https://raw.githubusercontent.com/pvhil/trinket-ducky/main/pics/image1.jpg)  
+    
+     
+Final Version (v2) in a small USB :D   
+![](https://raw.githubusercontent.com/pvhil/trinket-ducky/main/pics/image0.jpg)   
+    
