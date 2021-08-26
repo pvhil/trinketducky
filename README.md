@@ -24,6 +24,10 @@ copy adafruit_hid to the lib folder.
 Circuitpy HID
 https://learn.adafruit.com/circuitpython-essentials/circuitpython-hid-keyboard-and-mouse
 
+## You do not use the US Layout?
+
+Please look at this [Repo](https://github.com/Neradoc/Circuitpython_Keyboard_Layouts) if you need a german or french keyboardlayout. Download the lib in the releases and change the python code from KeyboardLayoutUS to the other one.
+
 
 # Ducky Script Python
 Copy duckyinpython.py to the root of the media device as code.py
